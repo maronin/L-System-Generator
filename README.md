@@ -24,5 +24,12 @@ The source files are in the **src** folder.
 
 You'll need Autodesk 3ds Max to run this script. Simply open it and compile (Ctrl-E)
 
+# Some Examples
 
-
+![](http://i.imgur.com/dUnGmUB.png)
+![](http://i.imgur.com/vF29pNr.png)
+![](http://i.imgur.com/D2Kwq7w.png)
+![](http://i.imgur.com/kLL78ko.png)
+![](http://i.imgur.com/UmoSN09.png)
+![](http://i.imgur.com/JfBMMDT.png)
+![](http://i.imgur.com/QqPN11V.png)
